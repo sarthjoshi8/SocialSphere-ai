@@ -72,6 +72,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+
 Deployed : https://social-sphere-ai-brown.vercel.app/
 
 ---
