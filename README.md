@@ -1,5 +1,7 @@
 # SocialSphere AI 🚀
 
+Deployed can view : https://social-sphere-ai-brown.vercel.app/
+
 > **"Turn Content Into Conversations"**
 
 An AI-powered web application that analyzes written content for social media performance. Upload a PDF or image — SocialSphere AI extracts the text and delivers a comprehensive breakdown across 10 analysis dimensions.
@@ -70,6 +72,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
+Deployed : https://social-sphere-ai-brown.vercel.app/
 
 ---
 
